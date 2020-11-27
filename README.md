@@ -33,7 +33,7 @@ Files submitted:
 -Tokenize
 
 -The Tokenizer class-
-~located in src>cse3341>keith>Tokenizer
+~located sophiekeith>Tokenizer
 ~this is different than the one I submitted previously. this class has current token, next token but that correspond to integer/identifier
 ~my previous class just returned an array of integers, but this would not work for this portion
 ~also, I used java's built in functionality for Tokenizer
